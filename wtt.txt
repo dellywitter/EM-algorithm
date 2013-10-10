@@ -1,5 +1,4 @@
 Word translation table 
-s0946868
 Toy corpus
 buch                 ==> |book:1|                  |the:1.3172e-177|         |small:0|                
 haus                 ==> |house:1|                 |a:1.3172e-177|           |the:0|                  
