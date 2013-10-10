@@ -1,6 +1,4 @@
-# s0946868
-# Machine Translation Spring 2013
-# Assignment 1
+
 # EM algorithm for IBM Model 1
 
 # Please provide toy.en, toy.de, in the same folder as the source code. 
