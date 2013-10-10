@@ -1,0 +1,55 @@
+Viterbi alignments 
+s0946868
+Toy corpus
+buch                 ==> book                     
+haus                 ==> house                    
+grosse               ==> big                      
+kleines              ==> small                    
+das                  ==> the                      
+ein                  ==> a 
+
+./europarl/test2000.lowercase.fr
+service              ==> service                  
+engagement           ==> commitment               
+communautaires       ==> community                
+budget               ==> budget                   
+entre                ==> between                  
+haye                 ==> hague                    
+efficacitÈ           ==> efficiency               
+guerre               ==> war 
+union                ==> union 
+meilleure            ==> best 
+turquie              ==> turkey
+unique               ==> single 
+situation            ==> situation       
+publiques            ==> public 
+peuvent              ==> can 
+via                  ==> s 
+6                    ==> 6 
+dÈpend               ==> depends 
+produit              ==> product 
+dernier              ==> last 
+europe               ==> europe 
+
+
+
+./europarl/test2000.lowercase.de
+sozialen             ==> social
+sterben              ==> as 
+unterst¸tzen         ==> support 
+stabilit‰t           ==> stability
+vorgehensweise       ==> approach 
+verordnungen         ==> regulations
+leitlinien           ==> guidelines 
+1999                 ==> 1999 
+balkan               ==> balkans 
+fortschritte         ==> progress 
+unabdingbar          ==> essential 
+gleichkommen         ==> state 
+politisches          ==> political 
+ohne                 ==> without 
+transitreisefreiheit ==> transit
+baldige              ==> point
+diskriminierung      ==> discrimination 
+rat                  ==> council 
+‰nderungsantr‰ge     ==> amendments

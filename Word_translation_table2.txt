@@ -1,0 +1,6 @@
+buch                 ==> |book:1|                  |the:5.60903e-10|         |big:3.59204e-24|        
+haus                 ==> |house:1|                 |a:5.60903e-10|           |big:3.59204e-24|        
+grosse               ==> |big:0.988218|            |the:0.0117817|           |house:8.31871e-17|      
+kleines              ==> |small:0.988218|          |a:0.0117817|             |book:8.31871e-17|       
+das                  ==> |the:1|                   |big:2.2759e-08|          |book:2.37111e-09|       
+ein                  ==> |a:1|                     |small:2.2759e-08|        |house:2.37111e-09|      

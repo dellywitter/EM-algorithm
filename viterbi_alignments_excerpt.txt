@@ -1,0 +1,84 @@
+Viterbi alignments 
+Toy corpus
+buch                 ==> book                     
+haus                 ==> house                    
+grosse               ==> big                      
+kleines              ==> small                    
+das                  ==> the                      
+ein                  ==> a                        
+
+fr-en.tiny
+mardi                ==> tuesday                  
+passé               ==> viewed                   
+justement            ==> upon                     
+code                 ==> principles               
+communautaire        ==> aid                      
+divers               ==> ways                     
+développement       ==> development              
+efficaces            ==> productive               
+monti                ==> single                   
+veut                 ==> competition              
+été                ==> been     
+
+de-en.tiny
+all                  ==> all                      
+rühren              ==> advertising              
+abgesetzt            ==> withdrawn                
+heute                ==> today                    
+ganz                 ==> quite                    
+beihilfenniveau      ==> reduce                   
+gesehen              ==> to                       
+weshalb              ==> why                      
+hierzu               ==> as                       
+monti                ==> market                   
+ausschließliche     ==> supply                   
+sollte               ==> should                   
+notwendige           ==> of                       
+sieht                ==> what                     
+selbst               ==> it                       
+maßnahmen           ==> may                      
+fortfahren           ==> too                      
+jeweiligen           ==> you                      
+als                  ==> a                        
+mitgliedstaaten      ==> member      
+
+
+
+./europarl/test2000.lowercase.de
+pluralismus          ==> pluralism                
+verordnungsvorschl‰ge ==> upset                    
+verschiedentlich     ==> voiced                   
+gef‰hrdung           ==> thresholds               
+dienste              ==> voice                    
+haushaltsdienstleistungen ==> required                 
+aggression           ==> selfishness              
+einseitiger          ==> article                  
+grundwerte           ==> values                   
+gef‰ngnissen         ==> war                      
+hauptursachen        ==> whilst                   
+hˆchstmˆglicher      ==> stringent                
+regional             ==> i                        
+dell                 ==> makes                    
+verschiedener        ==> various   
+
+./europarl/test2000.lowercase.fr
+encouragerait        ==> most                     
+accueille            ==> welcomes                 
+travaux              ==> work                     
+accueilli            ==> office                   
+devenir              ==> more                     
+adressÈes            ==> untenable                
+lors                 ==> to                       
+erratiques           ==> privatising              
+dell                 ==> sound                    
+adoptent             ==> will                     
+considÈrable         ==> fallen                   
+moraux               ==> remain                   
+commenter            ==> going                    
+efficacement         ==> effectively              
+fondÈe               ==> based                    
+intensification      ==> up                       
+importantes          ==> sums                     
+Ètanche              ==> impervious               
+aider                ==> help                     
+directement          ==> directly  

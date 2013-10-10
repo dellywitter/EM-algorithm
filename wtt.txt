@@ -1,0 +1,53 @@
+Word translation table 
+s0946868
+Toy corpus
+buch                 ==> |book:1|                  |the:1.3172e-177|         |small:0|                
+haus                 ==> |house:1|                 |a:1.3172e-177|           |the:0|                  
+grosse               ==> |big:0.999496|            |the:0.000503809|         |house:1.81265e-303|     
+kleines              ==> |small:0.999496|          |a:0.000503809|           |book:1.81265e-303|      
+das                  ==> |the:1|                   |big:1.64243e-174|        |book:3.50841e-176|      
+ein                  ==> |a:1|                     |small:1.64243e-174|      |house:3.50841e-176|     
+
+./europarl/test2000.lowercase.fr
+service              ==> service : 0.998482        for : 0.000685565         are : 0.000558838        
+engagement           ==> commitment : 0.910612     work : 0.0893869          and : 6.49546e-07        
+communautaires       ==> community : 0.950777      as : 0.0484956            both : 0.000627587       
+budget               ==> budget : 1                for : 4.20544e-08         so : 6.57534e-10         
+entre                ==> between : 0.999464        and : 0.000535667         in : 1.46037e-07         
+haye                 ==> hague : 0.802567          brought : 0.0152441       partners : 0.0152441     
+efficacitÈ           ==> efficiency : 0.927092     as : 0.0718167            extremely : 0.00108448   
+guerre               ==> war : 0.9082              a : 0.0917996             those : 2.97899e-08      
+union                ==> union : 0.944968          european : 0.0550317      the : 1.65604e-10        
+meilleure            ==> best : 0.948587           are : 0.0477023           those : 0.00193526       
+turquie              ==> turkey : 0.94021          s : 0.0597895             more : 3.51283e-08       
+unique               ==> single : 0.861748         necessary : 0.137947      essential : 0.000295694  
+situation            ==> situation : 0.99998       there : 1.07044e-05       the : 9.01605e-06        
+publiques            ==> public : 0.999995         as : 3.57765e-06          does : 1.89815e-06       
+peuvent              ==> can : 0.997961            with : 0.00203465         and : 3.64924e-06        
+via                  ==> s : 0.900642              endeavours : 0.00914867   via : 0.00914867         
+6                    ==> 6 : 0.963115              as : 0.0368852            nos : 1.13824e-10        
+dÈpend               ==> depends : 0.500923        upon : 0.250462           living : 0.0795404       
+produit              ==> product : 0.65544         than : 0.289073           has : 0.0553167          
+dernier              ==> last : 0.664224           on : 0.172163             final : 0.163582         
+europe               ==> europe : 1                and : 8.0847e-10          in : 2.47972e-10         
+
+./europarl/test2000.lowercase.de
+sozialen             ==> social : 0.999875         for : 8.17273e-05         sphere : 4.25941e-05     
+sterben              ==> as : 0.995889             out : 0.000399943         could : 0.000399943      
+unterst¸tzen         ==> support : 0.997689        and : 0.00229929          to : 1.13509e-05         
+stabilit‰t           ==> stability : 0.912519      us : 0.0873816            for : 8.84588e-05        
+vorgehensweise       ==> approach : 0.911006       implement : 0.00670128    fully : 0.00670128       
+verordnungen         ==> regulations : 0.890484    on : 0.102249             want : 0.00342617        
+leitlinien           ==> guidelines : 0.890446     will : 0.0189614          negative : 0.0116461     
+1999                 ==> 1999 : 0.89826            was : 0.10174             a : 1.57098e-09          
+balkan               ==> balkans : 0.957707        for : 0.0422121           in : 7.04262e-05         
+fortschritte         ==> progress : 0.950265       that : 0.0474317          make : 0.00142487        
+unabdingbar          ==> essential : 0.78261       this : 0.217222           is : 0.000168054         
+gleichkommen         ==> state : 0.0827264         been : 0.0827264          which : 0.0710341        
+politisches          ==> political : 0.945841      which : 0.0529517         is : 0.00119869          
+ohne                 ==> without : 0.947593        a : 0.0485325             to : 0.00347066          
+transitreisefreiheit ==> transit : 0.107887        through : 0.107887        solutions : 0.107887     
+baldige              ==> point : 0.507294          this : 0.488319           where : 0.000230061      
+diskriminierung      ==> discrimination : 0.975811 combat : 0.0207801        on : 0.00337387          
+rat                  ==> council : 1               the : 1.9516e-07          to : 3.49228e-12         
+‰nderungsantr‰ge     ==> amendments : 0.999844     and : 0.000155842         by : 4.53541e-08         

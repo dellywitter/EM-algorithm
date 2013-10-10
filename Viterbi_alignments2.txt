@@ -1,0 +1,6 @@
+buch                 ==> book                     
+haus                 ==> house                    
+grosse               ==> big                      
+kleines              ==> small                    
+das                  ==> the                      
+ein                  ==> a                        

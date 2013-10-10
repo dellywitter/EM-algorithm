@@ -1,0 +1,67 @@
+Word translation table
+Toy corpus
+buch                 ==> |book:1|                  |the:1.3172e-177|         |small:0|                
+haus                 ==> |house:1|                 |a:1.3172e-177|           |the:0|                  
+grosse               ==> |big:0.999496|            |the:0.000503809|         |house:1.81265e-303|     
+kleines              ==> |small:0.999496|          |a:0.000503809|           |book:1.81265e-303|      
+das                  ==> |the:1|                   |big:1.64243e-174|        |book:3.50841e-176|      
+ein                  ==> |a:1|                     |small:1.64243e-174|      |house:3.50841e-176|     
+
+fr-en.tiny
+mardi                ==> |tuesday:0.159864|        |relating:0.159864|       |monday:0.159864|        
+passé               ==> |viewed:0.173282|         |provider:0.173282|       |potential:0.173282|     
+justement            ==> |upon:0.113733|           |sufficiently:0.113733|   |price:0.113733|         
+code                 ==> |watering:0.0906144|      |underlying:0.0906144|    |existing:0.0906144|     
+communautaire        ==> |for:0.142857|            |reservation:0.142857|    |effectiveness:0.142857| 
+divers               ==> |ways:0.117489|           |prerequisites:0.117489|  |one:0.117489|           
+
+
+de-en.tiny
+all                  ==> |all:0.466896|            |accordance:0.466896|     |with:0.0662071|         
+rühren              ==> |would:0.23865|           |advertising:0.23865|     |thank:0.187385|         
+abgesetzt            ==> |withdrawn:0.5|           |from:0.5|                |agenda:1.88333e-75|     
+heute                ==> |today:0.786524|          |what:0.213476|           |are:2.18209e-40|        
+ganz                 ==> |quite:0.423254|          |it:0.269741|             |positions:0.0511675|    
+
+./europarl/test2000.lowercase.de
+pluralismus          ==> |pluralism:0.452341|      |many:0.285965|           |importance:0.0261697|   
+verordnungsvorschl‰ge ==> |upset:0.0752926|         |system:0.0752926|        |regulations:0.0752926|  
+verschiedentlich     ==> |voiced:0.181845|         |summarised:0.181845|     |quarters:0.181845|      
+gef‰hrdung           ==> |thresholds:0.0625|       |real:0.0625|             |permitted:0.0625|       
+dienste              ==> |voice:0.089947|          |promotes:0.089947|       |place:0.089947|         
+haushaltsdienstleistungen ==> |required:0.0954135|      |providing:0.0954135|     |possible:0.0954135|     
+aggression           ==> |selfishness:0.0964872|   |problems:0.0964872|      |often:0.0964872|        
+einseitiger          ==> |article:0.0900899|       |fully:0.0450449|         |stating:0.0450449|      
+grundwerte           ==> |values:0.884297|         |has:0.1126|              |on:0.0030742|           
+gef‰ngnissen         ==> |war:0.0757018|           |upon:0.0757018|          |suppose:0.0757018|      
+hauptursachen        ==> |whilst:0.0544213|        |serious:0.0544213|       |primarily:0.0544213|    
+hˆchstmˆglicher      ==> |stringent:0.072056|      |shares:0.072056|         |research:0.072056|      
+regional             ==> |i:0.125626|              |at:0.114878|             |taken:0.0628131|        
+dell                 ==> |makes:0.0734453|         |following:0.0734453|     |sensible:0.0734453|     
+verschiedener        ==> |various:0.542927|        |we:0.0886706|            |cooperation:0.075054|   
+gerade               ==> |that:0.339392|           |it:0.331308|             |of:0.162914|            
+verschiedenen        ==> |various:0.520687|        |that:0.479278|           |the:3.4133e-05|         
+energisch            ==> |should:0.526308|         |so:0.415628|             |will:0.0504285|         
+hafengelder          ==> |weather:0.0625001|       |too:0.0625001|           |times:0.0625001|        
+rechtssicherheit     ==> |certainty:0.5|           |legal:0.5|               |it:1.98582e-24|         
+
+
+./europarl/test2000.lowercase.fr
+encouragerait        ==> |most:0.089648|           |what:0.0867777|          |from:0.056599|          
+accueille            ==> |welcomes:0.142857|       |strongly:0.142857|       |liberal:0.142857|       
+travaux              ==> |work:0.401869|           |could:0.167914|          |which:0.14765|          
+accueilli            ==> |office:0.0909733|        |earlier:0.0909733|       |reproached:0.0909733|   
+devenir              ==> |more:0.287444|           |to:0.260484|             |association:0.0618057|  
+adressÈes            ==> |untenable:0.0769233|     |undermine:0.0769233|     |though:0.0769233|       
+lors                 ==> |to:0.481502|             |in:0.33456|              |that:0.134114|          
+erratiques           ==> |privatising:0.0910573|   |privatised:0.0910573|    |movements:0.0910573|    
+dell                 ==> |sound:0.100438|          |sensible:0.100438|       |sceptic:0.100438|       
+adoptent             ==> |will:0.141835|           |so:0.12777|              |quaestors:0.12132|      
+considÈrable         ==> |fallen:0.331152|         |convincingly:0.331152|   |achieved:0.331152|      
+moraux               ==> |remain:0.131749|         |hundred:0.131749|        |virtual:0.131749|       
+commenter            ==> |going:0.452314|          |situation:0.0525511|     |not:0.032687|           
+efficacement         ==> |effectively:0.693776|    |for:0.298718|            |in:0.00533848|          
+fondÈe               ==> |based:0.477694|          |as:0.412775|             |future:0.0863402|       
+intensification      ==> |up:0.417531|             |stepping:0.221161|       |this:0.203416|          
+importantes          ==> |sums:0.162142|           |important:0.148729|      |money:0.145937|         
+Ètanche              ==> |impervious:0.0877805|    |demarcation:0.0877805|   |cannot:0.0877805|       
